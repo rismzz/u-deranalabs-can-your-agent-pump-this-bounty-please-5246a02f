@@ -35,7 +35,7 @@ sebelumnya, makanya dia ada di sini.
 ## Repo & commit
 
 - Repo publik dibuat + push: https://github.com/rismzz/u-deranalabs-can-your-agent-pump-this-bounty-please-5246a02f
-- Commit SHA final: `5dc08b910b5c816c84f0b26a1a1826f0396a3a5d` (branch main,
+- Commit SHA final: `4b6914b8c9d8b56e6d896a45362be445ea73f6fa` (branch main, 2 commits,
   1 commit). Repo dibuat 2026-11-25T19:26:41Z — setelah kompetisi dibuka
   (2026-11-25T19:07:34Z). Terverifikasi lewat GitHub API: publik, berisi
   `.makefun/owner.json`, `LICENSE`, `README.md`, `main.py`.
